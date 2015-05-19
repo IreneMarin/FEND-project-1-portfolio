@@ -118,16 +118,17 @@ footer {
     font-size: 18px;
 }
 
-    footer a {
-        color: #fafafa;
-    }
+.email {
+    color: #fafafa;
+}
 
 .social {
     text-align: left;
 }
 
-.social a {
+.social-link {
     padding: 0px 15px;
+    color: #fafafa;
 }
 
 /**** Back to top button ****/
@@ -519,7 +520,7 @@ footer {
         text-align: right;
     }
 
-    .social a {
+    .social-link {
         padding: 0 10px 0 0;
     }
 }
