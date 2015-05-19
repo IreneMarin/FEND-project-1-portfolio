@@ -59,10 +59,10 @@ a:focus {
     text-decoration: none;
 }
 
-    a:hover,
-    a:focus {
-        color: #00b2ca;
-    }
+a:hover,
+a:focus {
+    color: #00b2ca;
+}
 
 p {
     margin: 0 15px 10px;
@@ -126,9 +126,9 @@ footer {
     text-align: left;
 }
 
-    .social a {
-        padding: 0px 15px;
-    }
+.social a {
+    padding: 0px 15px;
+}
 
 /**** Back to top button ****/
 /* Copyright for the back-to-top button goes to http://codyhouse.co/gem/back-to-top/ */
@@ -151,20 +151,22 @@ footer {
     transition: opacity .3s 0s, visibility 0s .3s;
 }
 
-    .cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
-        -webkit-transition: opacity .3s 0s, visibility 0s 0s;
-        -moz-transition: opacity .3s 0s, visibility 0s 0s;
-        transition: opacity .3s 0s, visibility 0s 0s;
-    }
+.cd-top.cd-is-visible, 
+.cd-top.cd-fade-out, 
+.no-touch .cd-top:hover {
+    -webkit-transition: opacity .3s 0s, visibility 0s 0s;
+    -moz-transition: opacity .3s 0s, visibility 0s 0s;
+    transition: opacity .3s 0s, visibility 0s 0s;
+}
 
-    .cd-top.cd-is-visible {
-        visibility: visible;
-        opacity: 1;
-    }
+.cd-top.cd-is-visible {
+    visibility: visible;
+    opacity: 1;
+}
 
-    .cd-top.cd-fade-out {
-        opacity: .5;
-    }
+.cd-top.cd-fade-out {
+    opacity: .5;
+}
 
 .no-touch .cd-top:hover {
     background-color: #006064;
@@ -519,9 +521,9 @@ footer {
         text-align: right;
     }
 
-        .social a {
-            padding: 0 10px 0 0;
-        }
+    .social a {
+        padding: 0 10px 0 0;
+    }
 }
 
 @media screen and (min-width: 992px) {
