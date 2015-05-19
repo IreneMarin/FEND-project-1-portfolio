@@ -464,14 +464,12 @@ footer {
 /***** Media queries *****/
 
 @media screen and (max-width: 767px) {
-
     .non-display-mobile {
         display: none;
     }
 }
 
 @media screen and (min-width: 768px) {
-
     .non-display {
         display: none;
     }
@@ -527,7 +525,6 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
-
     h1 {
         font-weight: 100;
     }
@@ -549,7 +546,6 @@ footer {
 }
 
 @media screen and (min-width: 1200px) {
-
     .container {
         width: 1170px;
     }
