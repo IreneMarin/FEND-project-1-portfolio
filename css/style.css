@@ -81,7 +81,7 @@ ul {
 header {
     background: #00bcd4;
     margin-bottom: 5px;
-    padding: 20px 0;    
+    padding: 20px 0;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.26);
 }
 
@@ -152,8 +152,8 @@ footer {
     transition: opacity .3s 0s, visibility 0s .3s;
 }
 
-.cd-top.cd-is-visible, 
-.cd-top.cd-fade-out, 
+.cd-top.cd-is-visible,
+.cd-top.cd-fade-out,
 .no-touch .cd-top:hover {
     -webkit-transition: opacity .3s 0s, visibility 0s 0s;
     -moz-transition: opacity .3s 0s, visibility 0s 0s;
