@@ -7,4 +7,4 @@ developing and personalizing a responsive website with HTML5 and CSS3, from a pr
 
 <a target="_blank" href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001">Link to Udacity's course</a>
 
-<a target="_blank" href="http://irene.marin.cat/project1/index.html">Link to the project's result</a>
+<a target="_blank" href="http://irene.marin.cat/udacity/project1/index.html">Link to the project's result</a>
