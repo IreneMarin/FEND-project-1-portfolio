@@ -5,7 +5,7 @@ First project from the Front-End Web Developer Nanodegree in <a target="_blank" 
 <br>
 developed and personalized a responsive website with HTML5 and CSS3, from a provided design mockup as a PDF-file.
 
-## Udacity's instructions:
+### Udacity's instructions:
 
 1. Download the design mockup file from the Downloadables section to your lower right hand corner and review it.
 2. Identify the various boxes you will need to build in order to recreate this design.
