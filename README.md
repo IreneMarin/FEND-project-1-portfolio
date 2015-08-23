@@ -3,7 +3,7 @@
 
 First project from the Front-End Web Developer Nanodegree in <a target="_blank" href="https://www.udacity.com/">Udacity</a>: 
 <br>
-developed and personalized a responsive website with HTML5 and CSS3, <br>from a provided design mockup as a PDF-file.
+developed and personalized a responsive website with HTML5 and CSS3, from a provided PDF design mockup.
 
 --------------------------
 
