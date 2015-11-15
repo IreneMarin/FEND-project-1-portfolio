@@ -18,3 +18,9 @@ Once you've successfully replicated the design mockup, you are encouraged to con
 3. Write your HTML and CSS files, continue to iterate until your work is representative of the design mockup.
 4. Take the time to personalize your portfolio with custom colors, additional content and your own images.
 5. Validate your HTML and CSS against the W3C's Validators.
+6. 
+---------------------
+
+### License
+
+The project is licensed under the [MIT license](license.txt).
